@@ -2,6 +2,7 @@
 
 
 **HooBank**
+
 HooBank is a modern and responsive web application built with React JS and Vite, designed to provide users with a seamless online banking experience. The project utilizes a variety of tools and libraries to offer smooth navigation, dynamic animations, and intuitive functionality.
 
 
